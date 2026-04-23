@@ -29,7 +29,7 @@ public class HelloController {
             "Informatika", 
             "Universitas Ciputra Makassar", 
             2, 
-            67578, 
+            4, 
             "salberto@student.ciputra.ac.id",
             myHobbies, 
             myCourses
